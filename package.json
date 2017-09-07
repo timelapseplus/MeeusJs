@@ -2,7 +2,9 @@
   "name": "meeusjs",
   "version": "1.0.3",
   "description": "Implementation of the Astronomical Algorithms of Jean Meeus in Javascript ",
-  "dependencies": {},
+  "dependencies": {
+    "moment": "^2.18.1"
+  },
   "devDependencies": {
     "closurecompiler": "~1",
     "eslint": "^1.10.3",
